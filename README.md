@@ -21,5 +21,5 @@ PostgreSQL Express.jx React Node.js
 
 <div>
 <h5>Пример добавления товара и его характеристики с помощью POST запроса с ADMIN панели</h5>
-![Image alt](https://github.com/flavokrkkk/TechLinkApp/blob/main/scrins/2023-12-06_23-12-02.png)
+<img src="https://github.com/flavokrkkk/TechLinkApp/blob/main/scrins/2023-12-06_23-12-02.png">
 </div>
