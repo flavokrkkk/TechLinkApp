@@ -1,7 +1,7 @@
 # TechLinkApp
 PERN STACK
 PostgreSQL Express.jx React Node.js
-# screens
+# Скриншоты данного проекта
 <h2>Основная часть магазина где показаны все разделы</h2>
 <img src="https://github.com/flavokrkkk/TechLinkApp/blob/main/scrins/2023-12-06_23-07-02.png">
 
